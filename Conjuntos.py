@@ -4,7 +4,7 @@
 # In[4]:
 
 
-Lista=["manzana","platano","melocoton","pera","manzana", "pera","Limon","platano","naranja"]
+Lista=["manzana","platano","melocoton","pera","manzana", "pera","Limon","platano","naranja","Peras"]
 conjunto=set (Lista)
 ListaF= list(conjunto)
 print(ListaF)
